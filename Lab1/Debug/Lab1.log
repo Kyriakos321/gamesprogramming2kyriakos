@@ -1,0 +1,25 @@
+﻿  SkyBox.cpp
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(56,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(56,1): error C2373: '__glewGenBuffers': redefinition; different type modifiers
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\deps\include\GL\glew.h(16851,37): message : see declaration of '__glewGenBuffers'
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(57,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(57,1): error C2373: '__glewBindBuffer': redefinition; different type modifiers
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\deps\include\GL\glew.h(16845,37): message : see declaration of '__glewBindBuffer'
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(58,78): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(58,1): error C2373: '__glewBufferData': redefinition; different type modifiers
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\deps\include\GL\glew.h(16846,37): message : see declaration of '__glewBufferData'
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(61,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(61,1): error C2373: '__glewGenVertexArrays': redefinition; different type modifiers
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\deps\include\GL\glew.h(17809,42): message : see declaration of '__glewGenVertexArrays'
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(62,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(62,1): error C2373: '__glewBindVertexArray': redefinition; different type modifiers
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\deps\include\GL\glew.h(17807,42): message : see declaration of '__glewBindVertexArray'
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(63,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(63,1): error C2373: '__glewEnableVertexAttribArray': redefinition; different type modifiers
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\deps\include\GL\glew.h(16875,50): message : see declaration of '__glewEnableVertexAttribArray'
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(64,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(64,1): error C2373: '__glewBindBuffer': redefinition; different type modifiers
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\deps\include\GL\glew.h(16845,37): message : see declaration of '__glewBindBuffer'
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(65,56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\Lab1\SkyBox.cpp(65,1): error C2373: '__glewVertexAttribPointer': redefinition; different type modifiers
+C:\Users\PC\Downloads\KyriakosGP2coursework\GP2\deps\include\GL\glew.h(16956,46): message : see declaration of '__glewVertexAttribPointer'
